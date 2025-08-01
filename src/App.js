@@ -1,4 +1,4 @@
-import style from "./styles.module.scss";
+import * as style from "./styles.module.scss";
 import obj from "./data/user.json";
 import data from "./data/data.json";
 import friends from "./data/friends.json";
