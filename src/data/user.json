@@ -9,10 +9,10 @@
     "likes": 3000
   },
   {
-    "name": "Tralalero tralalala",
-    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSI09OS4hRrCNgwuXxHV4Bojt6fRWXjfHtAQ&s",
-    "location": "Los angeles, USA",
-    "tag": "@tralalero",
+    "name": "Olexandr Makedonskyi",
+    "url": "https://clutch.net.ua/crops/a13772/620x0/1/0/2020/01/28/gKwBGqmDomz2MMZ5VwkaMJz36XNQTVTuFKQcYqAB.jpeg",
+    "location": "Macedonia",
+    "tag": "@macedonskyi",
     "followers": 100000,
     "views": 200,
     "likes": 30000
@@ -25,5 +25,14 @@
     "followers": 1,
     "views": 1,
     "likes": 1
+  },
+  {
+    "name": "Leonardo Wilhelm DiCaprio",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Leonardo_Dicaprio_Cannes_2019.jpg",
+    "location": "Los angeles, USA",
+    "tag": "@leonardodicaprio",
+    "followers": 100000,
+    "views": 400000,
+    "likes": 100000
   }
 ]

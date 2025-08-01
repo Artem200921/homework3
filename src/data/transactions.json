@@ -1,0 +1,32 @@
+[
+  {
+    "id": "id1",
+    "type": "Withdrawal",
+    "amount": "50",
+    "currency": "CHF"
+  },
+  {
+    "id": "id2",
+    "type": "Invoice",
+    "amount": "125",
+    "currency": "USD"
+  },
+  {
+    "id": "id3",
+    "type": "Postal note",
+    "amount": "100",
+    "currency": "EUR"
+  },
+  {
+    "id": "id4",
+    "type": "Overtime wages",
+    "amount": "100",
+    "currency": "USD"
+  },
+  {
+    "id": "id5",
+    "type": "Commissions",
+    "amount": "0.50",
+    "currency": "USD"
+  }
+]
